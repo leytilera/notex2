@@ -1,0 +1,108 @@
+{
+  "entries": [
+    {
+      "item": "projecte:item.pe_philosophers_stone|0",
+      "emc": 147712
+    },
+    {
+      "item": "extrautils2:ingredients|4",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:blaze_powder|0",
+      "emc": 768
+    },
+    {
+      "item": "minecraft:dragon_breath|0",
+      "emc": 139264
+    },
+    {
+      "item": "projecte:collector_mk1|0",
+      "emc": 213441
+    },
+    {
+      "item": "equivalentintegrations:soulbound_talisman|0",
+      "emc": 155656
+    },
+    {
+      "item": "extendedcrafting:material|40",
+      "emc": 146432
+    },
+    {
+      "item": "extendedcrafting:material|48",
+      "emc": 37886
+    },
+    {
+      "item": "projecte:condenser_mk1|0",
+      "emc": 2458494
+    },
+    {
+      "item": "projecte:transmutation_table|0",
+      "emc": 17675358
+    },
+    {
+      "item": "projectex:personal_link|0",
+      "emc": 22417337
+    },
+    {
+      "item": "appliedenergistics2:material|47",
+      "emc": 256000
+    },
+    {
+      "item": "appliedenergistics2:material|20",
+      "emc": 32
+    },
+    {
+      "item": "appliedenergistics2:material|18",
+      "emc": 2048
+    },
+    {
+      "item": "appliedenergistics2:material|17",
+      "emc": 8192
+    },
+    {
+      "item": "appliedenergistics2:material|16",
+      "emc": 32
+    },
+    {
+      "item": "appliedenergistics2:material|22",
+      "emc": 2144
+    },
+    {
+      "item": "appliedenergistics2:material|24",
+      "emc": 8288
+    },
+    {
+      "item": "appliedenergistics2:material|23",
+      "emc": 128
+    },
+    {
+      "item": "equivalentintegrations:alchemical_algorithms|0",
+      "emc": 23405
+    },
+    {
+      "item": "projectex:knowledge_sharing_book|0",
+      "emc": 1629045
+    },
+    {
+      "item": "projecte:item.pe_tome|0",
+      "emc": 206184954737
+    },
+    {
+      "item": "extendedcrafting:material|24",
+      "emc": 141188
+    },
+    {
+      "item": "equivadditions:emc_proxy|0",
+      "emc": 22539645
+    },
+    {
+      "item": "equivalentintegrations:transmutation_generator|0",
+      "emc": 22438495
+    },
+    {
+      "item": "equivalentintegrations:transmutation_chamber|0",
+      "emc": 22704903
+    }
+  ]
+}
