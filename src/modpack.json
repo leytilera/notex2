@@ -1,9 +1,9 @@
 {
-  "id": "ntx2",
+  "id": "notex",
   "type": "modpack",
   "versions": [
     {
-      "version": "1.0",
+      "version": "2.4.0",
       "versionid": -1,
       "mcversion": [
         "1.12.2"
@@ -2498,7 +2498,7 @@
     }
   ],
   "meta": {
-    "name": "ntx2",
+    "name": "Notex 2",
     "contributors": [
       {
         "name": "tilera",
